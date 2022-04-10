@@ -1,7 +1,7 @@
 {
-  "name": "learn_hardhat",
+  "name": "hardhat_boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate for Hardhat",
   "main": "index.js",
   "scripts": {
     "compile": "npx hardhat compile",
@@ -12,8 +12,8 @@
     "deploy-localhost": "HARDHAT_NETWORK=localhost npx hardhat run scripts/deploy.script.js",
     "deploy-testnet": "HARDHAT_NETWORK=bsctestnet VERIFY=verify npx hardhat run scripts/deploy.script.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["hardhat","boilerplate","blockchain"],
+  "author": "Deepak Kumar (https://github.com/aptgetinfo/)",
   "license": "ISC",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
