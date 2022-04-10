@@ -1,7 +1,7 @@
 
 # Hardhat BoilerPlate
 
-BoilerPlate for Hardhat with network configuration, frontend json generator, scripts etc
+BoilerPlate for Hardhat with network configuration, frontend json generator, scripts and verification etc
 
 ## Project Setup
 ### Environment Variable Setup
